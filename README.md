@@ -5,7 +5,7 @@ This project implements a FastAPI-based web service for performing addition on i
 
 # Installation Instructions
 1. Clone the repository to your local machine:
-git clone <(https://github.com/amitrupwate/fastapi/)>
+git clone <(https://github.com/amitrupwate/fastapi.git)>
 2. Navigate to the project directory:
 cd fastapi-multiprocessing-addition
 3. Install dependencies:
