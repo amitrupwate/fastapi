@@ -1,0 +1,2 @@
+INFO:root:Batch string started at 2024-05-22T16:31:43.472040
+ERROR:root:Error processing batch string: 'int' object is not iterable
